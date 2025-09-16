@@ -29,7 +29,7 @@ int main() {
     printf("Digite a área da cidade em quilômetros quadrados: "); // Área
     scanf(" %f", &area1);
 
-    printf("Digite o produto interno bruto da cidade: "); // PIB da cidade
+    printf("Digite o Produto Interno Bruto da cidade (em bilhões): "); // PIB da cidade
     scanf("%f", &pib1);
 
     printf("Digite a quantidade de pontos turísticos da cidade: "); // Pontos turísticos
